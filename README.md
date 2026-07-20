@@ -4,7 +4,7 @@
 
 This project documents my practical Linux experience while completing Linux Fundamentals training through TryHackMe.
 
-The purpose of this lab was to build confidence using the Linux command line and understand basic system administration concepts relevant to Cybersecurity.
+The purpose of this lab was to show-off my understanding by using the Linux command-line interface and understand basic system administration concepts relevant to Cybersecurityas a whole.
 
 ## Skills Practiced
 
