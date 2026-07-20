@@ -36,3 +36,5 @@ top
 cat
 grep
 echo
+whomai
+id
